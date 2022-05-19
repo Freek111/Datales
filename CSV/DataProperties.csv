@@ -1,0 +1,104 @@
+odata.type,ID,Position,ParentID,Type,Key,Title,Description,MapYear,ReleasePolicy,Datatype,Unit,Decimals,Default,PresentationType
+Cbs.OData.Dimension,0,0.0,,Dimension,Geslacht,Geslacht,,,,,,,,
+Cbs.OData.Dimension,1,1.0,,Dimension,Leeftijd,Leeftijd,,,,,,,,
+Cbs.OData.GeoDimension,2,2.0,,GeoDimension,RegioS,Regio's,,,,,,,,
+Cbs.OData.TimeDimension,3,3.0,,TimeDimension,Perioden,Perioden,,,True,,,,,
+Cbs.OData.Topic,4,4.0,,Topic,TotaalPersonenInHuishoudens_1,Totaal personen in huishoudens,"Totaal aantal personen in zowel particuliere als institutionele huishoudens.
+
+Particulier huishouden:
+Eén of meer personen die samen een woonruimte bewonen en zichzelf daar particulier, dus niet-bedrijfsmatig voorzien in de dagelijkse levensbehoeften.
+
+Institutioneel huishouden:
+Eén of meer personen die een woonruimte bewonen en daar bedrijfsmatig worden voorzien in dagelijkse levensbehoeften. Ook de huisvesting vindt bedrijfsmatig plaats. 
+Het gaat om instellingen zoals verpleeg-, en verzorgingshuizen, instellingen voor geestelijke gezondheidszorg, forensische centra, instellingen voor verstandelijk, lichamelijk en zintuiglijk gehandicapten, instellingen voor verslavingszorg en daklozenopvang, internaten, kloosters, gevangenissen, kazernes, en asielzoekerscentra, waarin de personen in principe voor langere tijd (zullen) verblijven.
+",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.TopicGroup,5,,,TopicGroup,,Personen in particuliere huishoudens,"Totaal aantal personen in particuliere huishoudens.
+
+Particulier huishouden:
+Eén of meer personen die samen een woonruimte bewonen en zichzelf daar particulier, dus niet-bedrijfsmatig voorzien in de dagelijkse levensbehoeften.",,,,,,,
+Cbs.OData.Topic,6,5.0,5.0,Topic,TotaalInParticuliereHuishoudens_2,Totaal in particuliere huishoudens,Totaal aantal personen in particuliere huishoudens.,,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,7,6.0,5.0,Topic,ThuiswonendKind_3,Thuiswonend kind,"Thuiswonende kinderen in particuliere huishoudens.
+
+Thuiswonend kind:
+Persoon ongeacht leeftijd of burgerlijke staat die een kind-ouderrelatie heeft met één of twee tot het huishouden behorende ouders.
+Adoptie- en stiefkinderen in het huishouden worden wel gezien als thuiswonende kinderen, maar pleegkinderen niet.",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,8,7.0,5.0,Topic,Alleenstaand_4,Alleenstaand,"Alleenstaande personen in particuliere huishoudens.
+
+Alleenstaand:
+Persoon die alleen in een woonruimte woont en een eenpersoonshuishouden vormt.
+Tot alleenstaanden worden ook personen gerekend die met anderen op eenzelfde adres wonen maar een eigen huishouding voeren. 
+Alleenstaanden kunnen een relatie hebben en zelfs gehuwd zijn met een persoon met wie ze niet samenwonen.
+",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.TopicGroup,9,,5.0,TopicGroup,,Samenwonend,"Samenwonende personen in particuliere huishoudens.
+
+Samenwonende persoon:
+Persoon die samen met iemand anders als paar, al dan niet met elkaar gehuwd, al dan niet als geregistreerd partners en al dan niet met kinderen, een particulier huishouden vormt.",,,,,,,
+Cbs.OData.Topic,10,8.0,9.0,Topic,TotaalSamenwonendePersonen_5,Totaal samenwonende personen,,,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,11,9.0,9.0,Topic,PartnerInNietGehuwdPaarZonderKi_6,Partner in niet-gehuwd paar zonder ki...,"Persoon die een niet-gehuwd paar vormt met een andere persoon in een particulier huishouden zonder thuiswonende kinderen. In een huishouden wordt slechts één paar aangewezen.
+
+Niet-gehuwd paar:
+Twee personen die een samenwoonrelatie hebben maar niet met elkaar zijn gehuwd of een partnerschapsregistratie hebben gesloten.
+
+Partnerschapsregistratie:
+Een op het huwelijk lijkende vorm van vastlegging van een relatie in een akte van de Burgerlijke Stand. De registratie staat open voor paren van gelijk en van verschillend geslacht. 
+De registratie is ingevoerd in Nederland per 1 januari 1998.
+
+Thuiswonend kind:
+Persoon ongeacht leeftijd of burgerlijke staat die een kind-ouderrelatie heeft met één of twee tot het huishouden behorende ouders. 
+Adoptie- en stiefkinderen in het huishouden worden wel gezien als thuiswonende kinderen, maar pleegkinderen niet.
+",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,12,10.0,9.0,Topic,PartnerInGehuwdPaarZonderKinderen_7,Partner in gehuwd paar zonder kinderen,"Persoon die een gehuwd paar vormt met een andere persoon in een particulier huishouden zonder thuiswonende kinderen. In een huishouden wordt slechts één paar aangewezen.
+
+Gehuwd paar:
+Twee personen die met elkaar gehuwd zijn of samen een geregistreerd partnerschap hebben gesloten.
+
+Partnerschapsregistratie:
+Een op het huwelijk lijkende vorm van vastlegging van een relatie in een akte van de Burgerlijke Stand. De registratie staat open voor paren van gelijk en van verschillend geslacht. 
+De registratie is ingevoerd in Nederland per 1 januari 1998.
+
+Thuiswonend kind:
+Persoon ongeacht leeftijd of burgerlijke staat die een kind-ouderrelatie heeft met één of twee tot het huishouden behorende ouders. 
+Adoptie- en stiefkinderen in het huishouden worden wel gezien als thuiswonende kinderen, maar pleegkinderen niet.",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,13,11.0,9.0,Topic,PartnerInNietGehuwdPaarMetKinderen_8,Partner in niet-gehuwd paar met kinderen,"Persoon die een niet-gehuwd paar vormt met een andere persoon in een particulier huishouden met één of meer thuiswonende kinderen. In een huishouden wordt slechts één paar aangewezen.
+
+Niet-gehuwd paar:
+Twee personen die een samenwoonrelatie hebben maar niet met elkaar zijn gehuwd of een partnerschapsregistratie hebben gesloten.
+
+Partnerschapsregistratie:
+Een op het huwelijk lijkende vorm van vastlegging van een relatie in een akte van de Burgerlijke Stand. De registratie staat open voor paren van gelijk en van verschillend geslacht. 
+De registratie is ingevoerd in Nederland per 1 januari 1998.
+
+Thuiswonend kind:
+Persoon ongeacht leeftijd of burgerlijke staat die een kind-ouderrelatie heeft met één of twee tot het huishouden behorende ouders. 
+Adoptie- en stiefkinderen in het huishouden worden wel gezien als thuiswonende kinderen, maar pleegkinderen niet.",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,14,12.0,9.0,Topic,PartnerInGehuwdPaarMetKinderen_9,Partner in gehuwd paar met kinderen,"Persoon die een gehuwd paar vormt met een andere persoon in een particulier huishouden met één of meer thuiswonende kinderen. In een huishouden wordt slechts één paar aangewezen.
+
+Gehuwd paar:
+Twee personen die met elkaar gehuwd zijn of samen een geregistreerd partnerschap hebben gesloten.
+
+Partnerschapsregistratie:
+Een op het huwelijk lijkende vorm van vastlegging van een relatie in een akte van de Burgerlijke Stand. De registratie staat open voor paren van gelijk en van verschillend geslacht. 
+De registratie is ingevoerd in Nederland per 1 januari 1998.
+
+Thuiswonend kind:
+Persoon ongeacht leeftijd of burgerlijke staat die een kind-ouderrelatie heeft met één of twee tot het huishouden behorende ouders. 
+Adoptie- en stiefkinderen in het huishouden worden wel gezien als thuiswonende kinderen, maar pleegkinderen niet.
+",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,15,13.0,5.0,Topic,OuderInEenouderhuishouden_10,Ouder in eenouderhuishouden,"Persoon in een particulier huishouden die een ouder-kindrelatie heeft met één of meer thuiswonende kinderen en die geen partner heeft in hetzelfde huishouden.
+
+Eenouderhuishouden:
+Particulier huishouden bestaande uit één ouder met één of meer thuiswonende kinderen.
+
+Thuiswonend kind:
+Persoon ongeacht leeftijd of burgerlijke staat die een kind-ouderrelatie heeft met één of twee tot het huishouden behorende ouders.
+Adoptie- en stiefkinderen in het huishouden worden wel gezien als thuiswonende kinderen, maar pleegkinderen niet.
+",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,16,14.0,5.0,Topic,OverigLidHuishouden_11,Overig lid huishouden,"Overige leden in particuliere huishoudens.
+
+Overig lid huishouden:
+Persoon die anders dan als partner, ouder in een eenouderhuishouden of als thuiswonend kind deel uitmaakt van een particulier huishouden.
+Te denken valt hierbij bijvoorbeeld aan een kostganger die bij een gezin inwoont, een persoon die samen met een broer of zus één huishouden vormt, of een pleegkind.",,,Double,aantal,0.0,Impossible,Absolute
+Cbs.OData.Topic,17,15.0,,Topic,PersonenInInstitutioneleHuishoudens_12,Personen in institutionele huishoudens,"Institutioneel huishouden:
+Eén of meer personen die een woonruimte bewonen en daar bedrijfsmatig worden voorzien in dagelijkse levensbehoeften. Ook de huisvesting vindt bedrijfsmatig plaats. 
+Het gaat om instellingen zoals verpleeg-, en verzorgingshuizen, instellingen voor geestelijke gezondheidszorg, forensische centra, instellingen voor verstandelijk, lichamelijk en zintuiglijk gehandicapten, instellingen voor verslavingszorg en daklozenopvang, internaten, kloosters, gevangenissen, kazernes, en asielzoekerscentra, waarin de personen in principe voor langere tijd (zullen) verblijven.
+",,,Double,aantal,0.0,Impossible,Absolute

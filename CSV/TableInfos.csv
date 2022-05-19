@@ -1,0 +1,126 @@
+ID,Title,ShortTitle,Identifier,Summary,Modified,ReasonDelivery,ExplanatoryText,Language,Catalog,Frequency,Period,ShortDescription,Description,DefaultPresentation,DefaultSelection,GraphTypes,OutputStatus,Source,MetaDataModified,SearchPriority
+0,"Huishoudens; personen naar geslacht, leeftijd en regio, 1 januari","Huishoudens; personen, regio",71488ned,"Personen in particuliere en institutionele huishoudens naar
+geslacht, leeftijd en regio, 1 januari",2021-07-09T02:00:00,Actualisering,,nl,CBS,Perjaar,2000 - 2021,"
+Personen in Nederland wonend in een particulier of institutioneel huishouden naar plaats in het huishouden, geslacht, leeftijd en regio op 1 januari.
+De volgende uitsplitsingen zijn mogelijk:
+- Personen in alle huishoudens naar geslacht, leeftijd en regio;
+- Personen in particuliere huishouden naar plaats in het huishouden, geslacht, leeftijd en regio;
+- Personen in institutionele huishoudens naar geslacht, leeftijd en regio.
+
+De in de tabel opgenomen regio's zijn landsdelen, provincies, COROP-gebieden en gemeenten.
+
+De gepresenteerde regiototalen betreffen samentellingen van gemeenten. In geval van grenswijzigingen die over verschillende regiogrenzen heen gaan is de indeling van de gemeenten gegroepeerd naar de meest recente situatie.
+Bijvoorbeeld: voor de gemeente Vianen, die per 1 januari 2002 is overgegaan van de provincie Zuid-Holland naar de provincie Utrecht, geldt dat ze in de tabel is gegroepeerd in de provincie Utrecht.
+
+De regionale cijfers over de institutionele bevolking vertonen van jaar op jaar soms moeilijk te verklaren schommelingen. De gehanteerde methodiek is gebaseerd op typering van adresbewoning op basis van secundaire bronnen. Niet in alle gevallen valt de typering perfect uit. Dat kan komen doordat een adres van functie is veranderd, bij voorbeeld van zorginstelling naar huisvesting van (voormalige) asielzoekers, zonder dat het CBS daar kennis van heeft genomen. In andere situaties kan het voorkomen dat een adres het ene jaar wel en het andere jaar niet boven de gehanteerde drempelwaarden blijft qua aantal institutionele bewoners die gelden voor het afbakenen van institutionele adressen. Indirect hebben dergelijke schommelingen ook effect op het aantal eenpersoonshuishoudens.
+
+Gegevens beschikbaar vanaf: 2000
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzingen per 9 juli 2021:
+De cijfers per 1 januari 2021 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers uit?
+In het 4e kwartaal van 2022 worden cijfers per 1 januari 2022 toegevoegd.
+ ","INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+1. TOELICHTING
+
+Personen in Nederland wonend in een particulier of institutioneel huishouden naar plaats in het huishouden, geslacht, leeftijd en regio op 1 januari.
+De volgende uitsplitsingen zijn mogelijk:
+- Personen in alle huishoudens naar geslacht, leeftijd en regio;
+- Personen in particuliere huishouden naar plaats in het huishouden, geslacht, leeftijd en regio;
+- Personen in institutionele huishoudens naar geslacht, leeftijd en regio.
+
+De in de tabel opgenomen regio's zijn landsdelen, provincies, COROP-gebieden en gemeenten.
+
+De gepresenteerde regiototalen betreffen samentellingen van gemeenten. In geval van grenswijzigingen die over verschillende regiogrenzen heen gaan is de indeling van de gemeenten gegroepeerd naar de meest recente situatie.
+Bijvoorbeeld: voor de gemeente Vianen, die per 1 januari 2002 is overgegaan van de provincie Zuid-Holland naar de provincie Utrecht, geldt dat ze in de tabel is gegroepeerd in de provincie Utrecht.
+
+De regionale cijfers over de institutionele bevolking vertonen van jaar op jaar soms moeilijk te verklaren schommelingen. De gehanteerde methodiek is gebaseerd op typering van adresbewoning op basis van secundaire bronnen. Niet in alle gevallen valt de typering perfect uit. Dat kan komen doordat een adres van functie is veranderd, bij voorbeeld van zorginstelling naar huisvesting van (voormalige) asielzoekers, zonder dat het CBS daar kennis van heeft genomen. In andere situaties kan het voorkomen dat een adres het ene jaar wel en het andere jaar niet boven de gehanteerde drempelwaarden blijft qua aantal institutionele bewoners die gelden voor het afbakenen van institutionele adressen. Indirect hebben dergelijke schommelingen ook effect op het aantal eenpersoonshuishoudens.
+
+Gegevens beschikbaar vanaf: 2000
+
+Status van de cijfers:
+Alle in de tabel opgenomen cijfers zijn definitief.
+
+Wijzingen per 9 juli 2021:
+De cijfers per 1 januari 2021 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers uit?
+In het 4e kwartaal van 2022 worden cijfers per 1 januari 2022 toegevoegd.
+ 
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+COROP-gebied (CR)
+Regionaal niveau tussen gemeenten en provincies in. In 1970 ontworpen door de Coördinatie Commissie Regionaal Onderzoeksprogramma, waaraan de indeling haar naam dankt. 
+Nederland telt 40 COROP-gebieden.
+
+Gemeente (GM)
+De kleinste lokale bestuurseenheid, vastgesteld door de Staten Generaal. 
+
+Institutioneel huishouden:
+Eén of meer personen die samen een woonruimte bewonen en daar bedrijfsmatig worden voorzien in dagelijkse levensbehoeften. Ook de huisvesting vindt bedrijfsmatig plaats. 
+Het gaat om instellingen zoals verpleeg-, en verzorgingshuizen, instellingen voor geestelijke gezondheidszorg, forensische centra, instellingen voor verstandelijk, lichamelijk en zintuiglijk gehandicapten, instellingen voor verslavingszorg en daklozenopvang, internaten, kloosters, gevangenissen, kazernes, en asielzoekerscentra, waarin de personen in principe voor langere tijd (zullen) verblijven.
+
+Landsdeel (LD)
+De indeling in landsdelen is een regionale groepering van provincies. 
+Nederland telt 4 landsdelen.
+
+Leeftijd
+Het aantal gehele jaren dat op 31 december van het jaar voorafgaand aan het waarnemingsjaar is verstreken sinds de geboortedatum van de persoon.
+
+Particulier huishouden
+Eén of meer personen die samen een woonruimte bewonen en zichzelf daar particulier, dus niet-bedrijfsmatig voorzien in de dagelijkse levensbehoeften.
+
+Provincie (PV)
+Bestuurlijke onderverdeling van het Nederlands grondgebied. 
+Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+Verklaring van symbolen:
+
+niets (blanco): het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70067ned'>Huishoudens naar migratieachtergrond, 1 januari</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37975'>Particuliere huishoudens naar samenstelling en grootte, 1 januari</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70133ned'>Huishoudens; typering naar grootte, 1 januari</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37620'>Personen in huishoudens naar leeftijd en geslacht, 1 januari</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37973'>Personen; positie in het huishouden, migratieachtergrond, 1 januari</a>
+
+Een compleet overzicht van beschikbare informatie over bevolking, huishoudens en demografische prognoses en hun onderlinge samenhang is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/bevolking'>Bevolking</a>.
+
+4. BRONNEN EN METHODEN
+
+Trendbreuk (personen in) particuliere huishoudens
+Door de verbeterde waarneming van personen in institutionele huishoudens treedt vanaf 2014 een trendbreuk op in de ontwikkeling van het aantal eenpersoonshuishoudens/alleenstaanden. Circa 35 duizend personen die eerst voornamelijk als alleenstaanden getypeerd waren, verschuiven nu naar de institutionele huishoudens. Het aantal alleenstaanden steeg daardoor van 2013 op 2014 met maar duizend personen. Van 2012 op 2013 was die stijging nog 41 duizend personen. Ook de totale stijging van het aantal huishoudens liep als gevolg hiervan terug van 57 duizend van 2012 op 2013 naar 21 duizend van 2013 op 2014.
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode worden voor het bepalen van de huishoudenssamenstelling naast de gegevens uit het gemeentelijke bevolkingsregister ook belastingdienstgegevens over samenwonende paren gebruikt. De uitkomsten op basis van de nieuwe methode sluiten goed aan op de voorgaande uitkomsten, maar er treden vanaf 2011 wel kleine verschuivingen op in het aantal huishoudens naar samenstelling. De grootste verandering betreft het aantal overige huishoudens en de niet-gehuwde paren. In 2011 valt het aantal overige huishoudens 10 duizend lager uit dan in 2010. Het aantal niet gehuwde paren valt navenant hoger uit. Meer informatie over de trendbreuk staat in de Korte onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/huishoudensstatistiek'>Huishoudensstatistiek</a>.
+
+Trendbreuk (personen in) institutionele huishoudens
+Tot en met 2012 zijn de gegevens over institutionele huishoudens gebaseerd op door gemeenten verstrekte adresinformatie. Het jaar 2013 is een tussenjaar. Startpunt was daar de adresinformatie over 2012 aangevuld met secundaire bronnen, waarbij aangetekend dient te worden dat de cijfers over 2013 mogelijk van wat mindere kwaliteit zijn. Vanaf 2014 is de waarneming van institutionele huishoudens volledig gebaseerd op secundaire waarneming: gegevens over zorggebruik waarvan de kosten voor rekening komen van de Wlz (Wet langdurige zorg, voorheen AWBZ), afkomstig van het CAK, in combinatie met institutionele adressen van de website zorgkaartnederland.nl en adressenlijsten voor de overige typen instellingen zoals bijvoorbeeld asielzoekerscentra en gevangenissen. Zie verder de korte onderzoekbeschrijving. De institutionele huishoudens worden met de nieuwe methodiek die vanaf 2014 is toegepast beter waargenomen. Tevens zijn vanaf 2014 asielzoekers die woonachtig zijn in asielzoekerscentra en als ingezetenen ingeschreven staan in de Basisregistratie Personen (BRP) bij de institutionele huishoudens ingedeeld. Als gevolg van deze wijzigingen worden in 2014 249 duizend personen in institutionele huishoudens geteld, naar schatting circa 35 duizend meer dan met de oude methode geteld zouden worden.
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode worden voor het bepalen van de huishoudenssamenstelling naast de gegevens uit het bevolkingsregister ook belastingdienstgegevens over samenwonende paren gebruikt. Het aantal personen in institutionele huishoudens ligt op 1 januari 2011 bijna 11 duizend hoger dan op 1 januari 2010. Ongeveer de helft van deze stijging is veroorzaakt door verbeteringen in de methode van waarneming. Meer informatie over de trendbreuk staat in de Korte onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/huishoudensstatistiek'>Huishoudensstatistiek</a>.
+
+De gegevens in de tabel zijn vanaf 1 januari 2015 afkomstig vanuit het <a href='https://www.cbs.nl/nl-NL/menu/methoden/dataverzameling/ssb-onderzoeksbeschrijving-art.htm'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>. 
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag / Heerlen
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.","ts=1625135124209&graphtype=Table&r=RegioS&k=Perioden,Topics&t=Geslacht,Leeftijd&_gu=NL","$filter=((Geslacht eq 'T001038')) and ((Leeftijd eq '10000')) and ((Perioden eq '2021JJ00')) and ((RegioS eq 'NL01  ') or (RegioS eq 'PV20  ') or (RegioS eq 'PV21  ') or (RegioS eq 'PV22  ') or (RegioS eq 'PV23  ') or (RegioS eq 'PV24  ') or (RegioS eq 'PV25  ') or (RegioS eq 'PV26  ') or (RegioS eq 'PV27  ') or (RegioS eq 'PV28  ') or (RegioS eq 'PV29  ') or (RegioS eq 'PV30  ') or (RegioS eq 'PV31  '))&$select=Geslacht, Leeftijd, Perioden, RegioS, TotaalPersonenInHuishoudens_1, TotaalInParticuliereHuishoudens_2, ThuiswonendKind_3, Alleenstaand_4, TotaalSamenwonendePersonen_5, OuderInEenouderhuishouden_10, OverigLidHuishouden_11, PersonenInInstitutioneleHuishoudens_12","Table,Bar,Line,Map",Regulier,CBS.,2021-07-09T02:00:00,2
